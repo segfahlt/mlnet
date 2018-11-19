@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNet", "MLNet\MLNet.csproj", "{D66E4B1E-47B8-4C0D-AED6-A81C8418DE6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66E4B1E-47B8-4C0D-AED6-A81C8418DE6F}.Debug|x64.ActiveCfg = Debug|x64
+		{D66E4B1E-47B8-4C0D-AED6-A81C8418DE6F}.Debug|x64.Build.0 = Debug|x64
+		{D66E4B1E-47B8-4C0D-AED6-A81C8418DE6F}.Release|x64.ActiveCfg = Release|x64
+		{D66E4B1E-47B8-4C0D-AED6-A81C8418DE6F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3011035A-6116-47C8-A43C-4352D45D1FD5}
+	EndGlobalSection
+EndGlobal
